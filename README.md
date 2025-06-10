@@ -18,11 +18,11 @@ You will need node version 20 to run the project.
 │   ├── mock
 │   │   └── MockERC20.sol
 │   └── token
-│       ├── b3x.sol
+│       ├── tokenX.sol
 │       └── IMintable.sol
 │
 ├── deploy 
-│   └── b3xDeployment.ts
+│   └── tokenXDeployment.ts
 │   
 ├── scripts
 │   └── saleDeployment.ts
