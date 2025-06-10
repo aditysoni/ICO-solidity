@@ -4,7 +4,7 @@
 
 You will need node version 20 to run the project.
 
-- clone the project : `git clone https://github.com/aditysoni/B3X_TOKEN_SALE.git`
+- clone the project : `https://github.com/aditysoni/ICO-solidity.git`
 - run the command : `npm install`
 - add the .env file and the environment variables as mentioned in the .env.example file
 
